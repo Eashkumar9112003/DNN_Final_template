@@ -1,1 +1,14 @@
 
+# Requirements
+
+```text
+torch
+torchvision
+transformers
+datasets
+matplotlib
+numpy
+pillow
+beautifulsoup4
+evaluate
+rouge_score
