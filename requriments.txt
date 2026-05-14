@@ -1,7 +1,6 @@
 
 # Requirements
 
-```text
 torch
 torchvision
 transformers
